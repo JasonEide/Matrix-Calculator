@@ -1,1 +1,1 @@
-A simple matrix calculator I made for linear algebra
+A simple matrix calculator made for linear algebra
